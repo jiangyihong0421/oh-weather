@@ -1,7 +1,7 @@
 <template>
   <header>
     <div class="logo">
-      <img src="@/assets/images/cloud-sun.svg" /> Naday Weather
+      <img src="@/assets/images/cloud-sun.svg" /> NADAY Weather
     </div>
     <ol class="links">
       <li>
