@@ -2,8 +2,8 @@
   <footer>
     <div>
       <div class="copyright">
-        Design & Code by
-        <a href="https://github.com/qier222">qier222</a>
+        Powered by
+        <a href="https://www.naday.com">Naday</a>
       </div>
       <div class="api">
         Weather data from
